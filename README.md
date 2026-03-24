@@ -11,7 +11,7 @@
 
 ## Overview
 
-FloodSense is an AI-powered flood risk intelligence system that combines **Monte Carlo probabilistic simulation** with **machine learning** to predict flood risk, simulate the impact of infrastructure interventions, and monitor flood conditions across major Nigerian cities in real time.
+Built With Claude. FloodSense is an AI-powered flood risk intelligence system that combines **Monte Carlo probabilistic simulation** with **machine learning** to predict flood risk, simulate the impact of infrastructure interventions, and monitor flood conditions across major Nigerian cities in real time.
 
 Unlike deterministic flood models that produce a single fixed prediction, FloodSense accounts for **uncertainty in environmental conditions** — modelling rainfall, drainage, infiltration, runoff, and terrain as probability distributions, running 10,000 simulations per scenario to produce a statistically grounded risk estimate.
 
